@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialMediaJava</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_block_number" formatted="false">Block #%d</string>
+    <string name="text_creating_block_chain">\"Creating Block Chain\"</string>
+    <string name="text_mining_blocks">mining blocks</string>
+</resources>
